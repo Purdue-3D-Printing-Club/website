@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "My Site",
-    "currentPage": "lab_information.html",
+    "currentPage": "page3.html",
     "theme": {
       "name": "startm5",
       "title": "StartM5",
@@ -51,11 +51,11 @@
       }
     ],
     "uniqCompNum": 91,
-    "versionPublish": "5.9.6",
+    "versionPublish": "5.9.18",
     "imageResize": false,
     "chatbutton": {},
     "favicon": false,
-    "mbrsiteDomain": "xi76jl5svk",
+    "mbrsiteDomain": "ajphfp8qfk",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
